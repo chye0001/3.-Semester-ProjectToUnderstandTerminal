@@ -1,4 +1,4 @@
-package com.example.projecttounderstandterminal.greting;
+package com.example.projecttounderstandterminal.gretting;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

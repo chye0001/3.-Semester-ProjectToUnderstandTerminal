@@ -1,4 +1,4 @@
-package com.example.projecttounderstandterminal.greting;
+package com.example.projecttounderstandterminal.gretting;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
